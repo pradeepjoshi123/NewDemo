@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C6D8B127555E33FC9C72136ECDF30D0D47159994",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C6D8B127555E33FC9C72136ECDF30D0D47159994" : 9223372036854775807,
+    "193327B8D1BD954262E637F9D7EB40A46DAEC587" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39CDCA53-4ABF-4A71-8FEE-B5CEB7D8A5F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C6D8B127555E33FC9C72136ECDF30D0D47159994" : "NewDemo\/",
+    "193327B8D1BD954262E637F9D7EB40A46DAEC587" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "demo3",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "demo3\/demo3.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/pradeepjoshi123\/demorepo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "193327B8D1BD954262E637F9D7EB40A46DAEC587"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pradeepjoshi123\/NewDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6D8B127555E33FC9C72136ECDF30D0D47159994"
+    }
+  ]
+}
